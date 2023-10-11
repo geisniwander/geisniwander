@@ -9,7 +9,6 @@ Técnico em Informática formado pelo Instituto Federal de Rondônia e acadêmic
 
 <h2 align="center">📃 Github Stats:</h2>
 <div align="center">
-    <a href="#"><img alt="geisniwander's Github Stats" src="https://github-readme-stats.vercel.app/api?username=geisniwander&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true" height="160"/></a>
     <a href="#"><img alt="geisniwander's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geisniwander&langs_count=10&layout=compact&theme=dracula&hide_border=true&" height="160"/></a>
     <br/>
   </div>

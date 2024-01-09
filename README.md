@@ -6,22 +6,6 @@ Desenvolvedor Web Full Stack, apaixonado por programação e tecnologia. Técnic
  <h6 align="center"><i>"I cannae change the laws of physics! I've got to have thirty minutes!" - Scotty</i></h6>
 
 <br/>
-
-<h2 align="center">📃 Github Stats:</h2>
-<div align="center">
-    <a href="#"><img alt="geisniwander's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geisniwander&langs_count=10&layout=compact&theme=dracula&hide_border=true&" height="160"/></a>
-    <br/>
-  </div>
-
-<br/>
-
-<h2 align="center"> 📞 Contato:</h2>
-<div align="center">
-<a href="https://www.linkedin.com/in/geisniwander/"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-<a href="https://www.instagram.com/geisniwander/"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> 
-</div>
-
-<br/>
 <h2 align="center"> 🔨 Linguagens e Ferramentas:</h2>
 <div align="center">
 <img alt="visualstudio" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
@@ -50,4 +34,16 @@ Desenvolvedor Web Full Stack, apaixonado por programação e tecnologia. Técnic
 <img alt="postgresql" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/> 
 <img alt="redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)"/> 
 <img alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> 
+</div>
+<br/>
+<h2 align="center">📃 Github Stats:</h2>
+<div align="center">
+    <a href="#"><img alt="geisniwander's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geisniwander&langs_count=10&layout=compact&theme=dracula&hide_border=true&" height="160"/></a>
+    <br/>
+  </div>
+<br/>
+<h2 align="center"> 📞 Contato:</h2>
+<div align="center">
+<a href="https://www.linkedin.com/in/geisniwander/"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+<a href="https://www.instagram.com/geisniwander/"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> 
 </div>
